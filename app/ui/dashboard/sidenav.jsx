@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import NavLinks from '@/app/ui/dashboard/nav-links';
+import NavLinks from '../../ui/dashboard/nav-links';
 
 
 // import { signOut } from '@/auth';
