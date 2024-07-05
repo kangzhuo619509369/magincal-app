@@ -2,7 +2,7 @@ import { Breadcrumb } from "antd";
 import Link from "next/link";
 import { Suspense } from 'react';
 import Create from '../../../ui/dashboard/management/create'
-export function InvoicesTableSkeleton() {
+ function InvoicesTableSkeleton() {
   return (
     <div className="mt-6 flow-root">
       <div className="inline-block min-w-full align-middle">
